@@ -4,7 +4,11 @@
   <title>
      The land
      </title> 
-     <style:#0ff>
+     <div>
+     <title>
+     background-color:#0ff
+     </title>
+     </div>
      </head>
 <body>
   <h1>
